@@ -22,7 +22,7 @@ Encapsulating the intricacies of our Aruco navigation system, the flowchart prov
 roslaunch assignment_1 aruco_navigation.launch
 ```
 
-<img src="https://github.com/Melih199/Exp_rob_assignment_1/blob/Rosbot_aruco_simulation/simulation_node.gif" width="1000" height="800"/>
+<img src="https://github.com/Melih199/Exp_rob_assignment_1/blob/Rosbot_aruco_simulation/simulation_node.gif" width="1000" height="500"/>
 
 ### aruco_detector node ###
 
@@ -117,7 +117,10 @@ def control_loop(self):
             rate.sleep()
 ```
 
-Results
+**Results**
+
+<img src="Rosbot Real World Scenario.gif" width="1000" height="500"/>
+
 ## Conclusion and Future Improvements
 
 In concluding our Aruco Navigation project, our team has successfully developed a robust system for autonomous robot navigation using Aruco markers. The project's structure and implementation, detailed in the README, lay the foundation for future enhancements and applications.
