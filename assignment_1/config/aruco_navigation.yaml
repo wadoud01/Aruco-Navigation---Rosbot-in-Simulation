@@ -1,0 +1,5 @@
+aruco_navigation:
+  linear_gain: 0.0028
+  angular_gain: 0.0015
+  target_size: 185 
+
