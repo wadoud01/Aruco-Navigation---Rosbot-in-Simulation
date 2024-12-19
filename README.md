@@ -119,7 +119,7 @@ def control_loop(self):
 
 **Results**
 
-<img src="Rosbot Real World Scenario.gif" width="1000" height="400"/>
+<img src="Rosbot Real World Scenario.gif" width="600" height="400"/>
 
 ## Conclusion and Future Improvements
 
