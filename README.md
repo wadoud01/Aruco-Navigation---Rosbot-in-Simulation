@@ -22,7 +22,7 @@ Encapsulating the intricacies of our Aruco navigation system, the flowchart prov
 roslaunch assignment_1 aruco_navigation.launch
 ```
 
-<img src="https://github.com/Melih199/Exp_rob_assignment_1/blob/Rosbot_aruco_simulation/simulation_node.gif" width="1000" height="500"/>
+<img src="https://github.com/Melih199/Exp_rob_assignment_1/blob/Rosbot_aruco_simulation/simulation_node.gif" width="600" height="300"/>
 
 ### aruco_detector node ###
 
@@ -119,7 +119,7 @@ def control_loop(self):
 
 **Results**
 
-<img src="Rosbot Real World Scenario.gif" width="1000" height="500"/>
+<img src="Rosbot Real World Scenario.gif" width="1000" height="400"/>
 
 ## Conclusion and Future Improvements
 
