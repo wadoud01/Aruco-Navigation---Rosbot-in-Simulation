@@ -125,6 +125,13 @@ def control_loop(self):
 
 In concluding our Aruco Navigation project, our team has successfully developed a robust system for autonomous robot navigation using Aruco markers. The project's structure and implementation, detailed in the README, lay the foundation for future enhancements and applications.
 
+This project is developed by:
+
+Natnael Berhanu Takele - s5446838
+Mustafa Melih Toslak - s5431021
+Ahmet Samet Kosum - s5635830
+Abdelouadoud Guelmami - s546728
+
 ### Achievements:
 
 1. **Aruco Navigation:** The project achieves its primary goal of enabling a ROSbot robot to autonomously follow a predefined sequence of Aruco markers while maintaining a safe distance. The utilization of ROS, Python, and OpenCV contributes to the efficiency of the navigation system.
